@@ -3,7 +3,7 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     """Application configuration settings loaded from environment variables or .env file."""
-    groq_api_key: str = "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"
+    # groq_api_key: str = "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"
     api_key: str = "dev_key"  # API key for securing endpoints
     ocr_config: str = "--oem 3 --psm 6"
     tesseract_path: str = r"C:\Program Files\Tesseract-OCR\tesseract.exe"  # Path to Tesseract executable
