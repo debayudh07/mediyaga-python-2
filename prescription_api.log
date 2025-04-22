@@ -1,0 +1,518 @@
+2025-03-03 21:28:27,882 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-03 21:28:31,817 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-03 21:28:32,507 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-03 21:30:16,773 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-03 21:30:16,773 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-03 21:30:18,086 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-03 21:30:18,086 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-03 21:30:20,386 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-03 21:30:20,388 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-03 21:30:20,390 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-03 21:30:20,432 - prescription_analyzer - INFO - Processed prescription in 5508.60ms
+2025-03-03 21:31:54,519 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-03 21:31:54,524 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-03 21:31:55,823 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-03 21:31:55,824 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-03 21:31:58,144 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-03 21:31:58,144 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-03 21:31:58,144 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-03 21:31:58,172 - prescription_analyzer - INFO - Processed prescription in 4584.43ms
+2025-03-09 23:03:18,986 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-09 23:03:24,389 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-09 23:03:25,384 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-09 23:04:31,106 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-09 23:04:36,890 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-09 23:04:37,638 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:12:16,494 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:12:16,494 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:12:26,003 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:13:18,099 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:13:18,099 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:13:21,920 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:13:22,975 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:13:22,975 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:13:27,083 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:20:19,571 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:20:19,571 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:20:23,574 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:20:24,545 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:20:24,545 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:20:28,396 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:22:17,080 - prescription_analyzer - ERROR - Prescription analysis failed: Invalid image file: cannot identify image file <_io.BytesIO object at 0x0000027020A5D440>
+2025-03-16 13:22:51,488 - prescription_analyzer - ERROR - Prescription analysis failed: Invalid image file: cannot identify image file <_io.BytesIO object at 0x0000027020A15620>
+2025-03-16 13:22:53,446 - prescription_analyzer - ERROR - Prescription analysis failed: Invalid image file: cannot identify image file <_io.BytesIO object at 0x0000027020A5CBD0>
+2025-03-16 13:30:20,570 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:30:20,570 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:30:21,896 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:30:21,896 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:30:24,220 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:30:24,222 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:30:24,222 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-16 13:30:24,306 - prescription_analyzer - INFO - Processed prescription in 8222.12ms
+2025-03-16 13:30:57,669 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:30:57,673 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:30:58,980 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:30:58,980 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:31:01,333 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:31:01,333 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:31:01,333 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-16 13:31:01,405 - prescription_analyzer - INFO - Processed prescription in 5516.62ms
+2025-03-16 13:35:49,239 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:35:49,239 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:36:00,382 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:36:04,217 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:36:04,217 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:36:05,533 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:36:05,540 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:36:07,913 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:36:07,913 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): Incorrect API key provided: gsk_o8Q9********************************************AD7t. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-16 13:36:07,913 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-16 13:36:07,976 - prescription_analyzer - INFO - Processed prescription in 6989.67ms
+2025-03-16 13:36:42,362 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:36:42,362 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:36:48,678 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:36:50,322 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:36:50,322 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:36:56,410 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:37:32,715 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4-turbo` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:37:32,717 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): The model `gpt-4-turbo` does not exist or you do not have access to it.
+2025-03-16 13:37:34,130 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4-turbo` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:37:34,134 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): The model `gpt-4-turbo` does not exist or you do not have access to it.
+2025-03-16 13:37:36,432 - openai - INFO - error_code=model_not_found error_message='The model `gpt-4-turbo` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-03-16 13:37:36,432 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): The model `gpt-4-turbo` does not exist or you do not have access to it.
+2025-03-16 13:37:36,432 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-16 13:37:36,513 - prescription_analyzer - INFO - Processed prescription in 6331.70ms
+2025-03-16 13:40:35,782 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:40:35,782 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:40:45,217 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:40:49,663 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:40:49,679 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:40:51,165 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:40:51,165 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:40:53,496 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:40:53,496 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:40:53,496 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-16 13:40:53,571 - prescription_analyzer - INFO - Processed prescription in 6844.95ms
+2025-03-16 13:42:08,973 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:42:08,973 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:42:16,854 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:42:18,857 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:42:18,871 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:42:20,157 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:42:20,157 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:42:22,464 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:42:22,464 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:42:22,464 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-16 13:42:22,541 - prescription_analyzer - INFO - Processed prescription in 5352.36ms
+2025-03-16 13:50:14,835 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:50:14,835 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:50:21,625 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:50:23,297 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:50:23,297 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:50:29,474 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:50:38,204 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:50:38,204 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:50:39,517 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:50:39,517 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:50:41,839 - openai - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-03-16 13:50:41,839 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-03-16 13:50:41,839 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-16 13:50:41,903 - prescription_analyzer - INFO - Processed prescription in 6473.55ms
+2025-03-16 13:59:23,281 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:59:23,281 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:59:36,772 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 13:59:38,814 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 13:59:38,814 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 13:59:46,572 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 14:02:45,625 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 14:02:45,625 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 14:02:51,836 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 14:03:20,124 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 14:03:20,124 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 14:03:27,088 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 14:04:22,715 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 14:04:22,715 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 14:04:30,091 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 14:05:04,290 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 14:05:04,290 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 14:05:13,744 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 14:06:17,225 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 14:06:17,248 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-16 14:06:17,330 - prescription_analyzer - INFO - Processed prescription in 2938.30ms
+2025-03-16 14:08:36,963 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 14:08:36,964 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 14:08:43,990 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 14:08:46,497 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 14:08:46,511 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-16 14:08:46,573 - prescription_analyzer - INFO - Processed prescription in 2326.14ms
+2025-03-16 14:14:38,680 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 14:14:38,680 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 14:14:48,191 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 14:14:52,373 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 14:14:52,385 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-16 14:14:52,440 - prescription_analyzer - INFO - Processed prescription in 3612.28ms
+2025-03-16 19:18:43,130 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 19:18:43,130 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 19:18:47,802 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 19:18:48,729 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-16 19:18:48,729 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-16 19:18:51,906 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-16 19:20:42,793 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 19:20:42,807 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-16 19:20:42,946 - prescription_analyzer - INFO - Processed prescription in 3097.33ms
+2025-03-16 19:22:09,339 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 19:22:09,339 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-16 19:22:09,408 - prescription_analyzer - INFO - Processed prescription in 1483.45ms
+2025-03-16 19:22:44,289 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-16 19:22:44,296 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-16 19:22:44,330 - prescription_analyzer - INFO - Processed prescription in 2798.91ms
+2025-03-29 20:20:54,266 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 20:20:54,266 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 20:21:02,919 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 20:21:03,837 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 20:21:03,837 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 20:21:07,240 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 20:44:41,945 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 20:44:41,952 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-29 20:44:44,126 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 20:44:44,126 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-29 20:44:48,268 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 20:44:48,271 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-29 20:44:48,271 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-29 20:44:48,448 - prescription_analyzer - INFO - Processed prescription in 11517.77ms
+2025-03-29 20:45:58,846 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 20:45:58,846 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-29 20:46:01,243 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 20:46:01,243 - prescription_analyzer - WARNING - Groq API Error (attempt 2/3): Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-29 20:46:04,540 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-29 20:46:04,540 - prescription_analyzer - WARNING - Groq API Error (attempt 3/3): Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-29 20:46:04,540 - prescription_analyzer - ERROR - Failed all 3 attempts to correct text with Groq
+2025-03-29 20:46:04,587 - prescription_analyzer - INFO - Processed prescription in 8333.76ms
+2025-03-29 20:46:07,468 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 20:46:07,469 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 20:46:11,627 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 20:46:58,660 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 20:46:58,660 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 20:47:02,363 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 20:47:03,310 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 20:47:03,310 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 20:47:06,623 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 20:47:18,040 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 20:47:18,047 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 20:47:18,074 - prescription_analyzer - INFO - Processed prescription in 1777.83ms
+2025-03-29 20:47:49,553 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 20:47:49,553 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 20:47:49,595 - prescription_analyzer - INFO - Processed prescription in 2063.75ms
+2025-03-29 20:50:34,916 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 20:50:34,916 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 20:50:39,488 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 20:50:54,608 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 20:50:54,625 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 20:50:55,104 - prescription_analyzer - INFO - Processed prescription in 12541.06ms
+2025-03-29 20:51:45,131 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-03-29 20:51:45,131 - prescription_analyzer - WARNING - Groq API Error (attempt 1/3): Error code: 503 - {'error': {'message': 'Service Unavailable', 'type': 'internal_server_error'}}
+2025-03-29 20:51:56,332 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 20:51:56,340 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 20:51:56,503 - prescription_analyzer - INFO - Processed prescription in 16049.47ms
+2025-03-29 20:53:37,065 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 20:53:37,066 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 20:53:41,150 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 20:53:58,414 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 20:53:58,425 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 20:53:58,863 - prescription_analyzer - INFO - Processed prescription in 7851.48ms
+2025-03-29 20:54:17,606 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 20:54:17,637 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 20:54:17,747 - prescription_analyzer - INFO - Processed prescription in 6078.06ms
+2025-03-29 20:57:05,043 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 20:57:05,048 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 20:57:05,564 - prescription_analyzer - INFO - Processed prescription in 10681.35ms
+2025-03-29 21:04:51,850 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-29 21:04:51,850 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-29 21:04:58,149 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-29 21:05:06,879 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 21:05:06,934 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-29 21:05:07,080 - prescription_analyzer - INFO - Processed prescription in 5061.04ms
+2025-03-30 00:14:04,119 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 00:14:04,120 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 00:14:23,538 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 00:24:22,600 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 00:24:22,631 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 00:24:22,636 - prescription_analyzer - ERROR - Prescription analysis failed: 'tuple' object has no attribute 'strip'
+2025-03-30 00:26:10,635 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 00:26:10,635 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 00:26:16,058 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 00:26:19,382 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 00:26:19,392 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 00:26:19,396 - prescription_analyzer - ERROR - Prescription analysis failed: 'tuple' object has no attribute 'strip'
+2025-03-30 00:26:55,002 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 00:26:55,006 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 00:26:55,007 - prescription_analyzer - ERROR - Prescription analysis failed: 'tuple' object has no attribute 'strip'
+2025-03-30 00:26:57,226 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 00:26:57,228 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 00:27:00,961 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 00:27:08,657 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 00:27:08,669 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 00:27:08,797 - prescription_analyzer - INFO - Processed prescription in 2707.26ms
+2025-03-30 00:27:45,666 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 00:27:45,670 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 00:27:45,880 - prescription_analyzer - INFO - Processed prescription in 3104.49ms
+2025-03-30 00:29:01,276 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 00:29:01,289 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 00:29:01,411 - prescription_analyzer - INFO - Processed prescription in 2383.94ms
+2025-03-30 00:29:47,502 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 00:29:47,505 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 00:29:47,574 - prescription_analyzer - INFO - Processed prescription in 3921.54ms
+2025-03-30 05:18:04,257 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 05:18:04,257 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 05:18:24,151 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 05:18:26,485 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 05:18:26,494 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 05:18:35,213 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 05:19:27,834 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 05:19:27,887 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 05:19:28,259 - prescription_analyzer - INFO - Processed prescription in 20009.69ms
+2025-03-30 05:20:00,697 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 05:20:00,703 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 05:20:01,200 - prescription_analyzer - INFO - Processed prescription in 6105.12ms
+2025-03-30 05:20:23,372 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 05:20:23,381 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 05:20:23,685 - prescription_analyzer - INFO - Processed prescription in 5155.52ms
+2025-03-30 05:20:58,594 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 05:20:58,615 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 05:20:58,844 - prescription_analyzer - INFO - Processed prescription in 5638.72ms
+2025-03-30 05:23:37,324 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 05:23:37,324 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 05:23:45,948 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 05:25:35,649 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 05:25:35,669 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 05:25:37,269 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-30 05:25:37,276 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-30 05:25:39,747 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-30 05:25:39,755 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-30 05:25:39,758 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-03-30 05:25:40,102 - prescription_analyzer - INFO - Processed prescription in 8927.08ms
+2025-03-30 14:12:38,565 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 14:12:38,565 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 14:12:46,776 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 14:12:47,753 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 14:12:47,753 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 14:12:51,317 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 15:47:22,855 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 15:47:22,855 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 15:47:28,127 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 15:47:29,165 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-03-30 15:47:29,166 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-03-30 15:47:32,871 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-03-30 15:47:59,738 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 15:47:59,762 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 15:48:00,665 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-30 15:48:00,666 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-30 15:48:02,684 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-30 15:48:02,686 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-30 15:48:02,687 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-03-30 15:48:02,932 - prescription_analyzer - INFO - Processed prescription in 7473.11ms
+2025-03-30 17:17:52,297 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 17:17:52,314 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-03-30 17:17:53,172 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-30 17:17:53,183 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-30 17:17:55,743 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-30 17:17:55,743 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-03-30 17:17:55,743 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-03-30 17:17:56,170 - prescription_analyzer - INFO - Processed prescription in 7337.29ms
+2025-04-05 21:11:29,384 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-05 21:11:29,384 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-05 21:11:40,134 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-04-05 21:11:41,254 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-05 21:11:41,254 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-05 21:11:45,436 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-04-05 21:25:19,073 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:25:19,101 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:25:19,815 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:25:19,815 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:25:21,551 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:25:21,559 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:25:21,560 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:25:21,748 - prescription_analyzer - INFO - Processed prescription in 7889.76ms
+2025-04-05 21:28:39,072 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:28:39,081 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:28:40,366 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:28:40,374 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:28:42,082 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:28:42,089 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:28:42,089 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:28:42,197 - prescription_analyzer - INFO - Processed prescription in 6158.20ms
+2025-04-05 21:31:15,791 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-05 21:31:15,791 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-05 21:31:23,015 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-04-05 21:31:29,466 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:31:29,466 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:31:30,170 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:31:30,176 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:31:31,950 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:31:31,952 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:31:31,954 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:31:32,089 - prescription_analyzer - INFO - Processed prescription in 5232.30ms
+2025-04-05 21:34:18,631 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:34:18,631 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:34:19,293 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:34:19,301 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:34:21,088 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:34:21,088 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:34:21,088 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:34:21,183 - prescription_analyzer - INFO - Processed prescription in 4884.84ms
+2025-04-05 21:43:54,736 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:43:54,746 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:43:56,152 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:43:56,155 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:43:58,188 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:43:58,195 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:43:58,196 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:43:58,339 - prescription_analyzer - INFO - Processed prescription in 7081.08ms
+2025-04-05 21:44:29,754 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:44:29,754 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:44:30,408 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:44:30,417 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:44:32,094 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:44:32,095 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:44:32,095 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:44:32,229 - prescription_analyzer - INFO - Processed prescription in 4377.33ms
+2025-04-05 21:47:10,313 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:47:10,313 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:47:11,001 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:47:11,009 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:47:12,770 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:47:12,770 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:47:12,770 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:47:12,887 - prescription_analyzer - INFO - Processed prescription in 5457.59ms
+2025-04-05 21:48:42,474 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 21:48:42,474 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-05 21:48:43,178 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:48:43,185 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:48:45,000 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-05 21:48:45,006 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-05 21:48:45,006 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-05 21:48:45,086 - prescription_analyzer - INFO - Processed prescription in 4157.19ms
+2025-04-10 12:24:25,958 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-10 12:24:25,958 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-10 12:24:35,560 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-04-10 12:24:36,681 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-10 12:24:36,681 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-10 12:24:40,396 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-04-10 12:25:58,792 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-10 12:25:58,802 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-10 12:25:59,511 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-10 12:25:59,527 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-10 12:26:01,325 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-10 12:26:01,335 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-10 12:26:01,335 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-10 12:26:01,531 - prescription_analyzer - INFO - Processed prescription in 8255.04ms
+2025-04-17 23:29:51,471 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-17 23:29:51,471 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-17 23:30:01,622 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-04-17 23:30:02,749 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-17 23:30:02,749 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-17 23:30:06,750 - prescription_analyzer - INFO - Successfully loaded SpaCy NLP model
+2025-04-17 23:30:36,884 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-17 23:30:36,892 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-17 23:30:37,567 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-17 23:30:37,567 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 1/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-17 23:30:39,262 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-17 23:30:39,273 - prescription_analyzer - WARNING - LLM Extraction Error (attempt 2/2): Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-04-17 23:30:39,273 - prescription_analyzer - ERROR - Failed all 2 attempts to extract medications with LLM
+2025-04-17 23:30:39,418 - prescription_analyzer - INFO - Processed prescription in 5792.98ms
+2025-04-18 13:14:23,402 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-18 13:14:23,402 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-18 13:14:29,584 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-18 13:14:30,676 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-18 13:14:30,676 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-18 13:14:34,888 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-18 13:16:52,582 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:16:52,596 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:16:52,776 - prescription_analyzer - INFO - Processed prescription in 4725.08ms
+2025-04-18 13:20:11,034 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:20:11,034 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:20:11,061 - prescription_analyzer - INFO - Processed prescription in 4052.35ms
+2025-04-18 13:22:46,888 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:22:46,888 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:22:46,963 - prescription_analyzer - INFO - Processed prescription in 2461.11ms
+2025-04-18 13:30:52,372 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:30:52,376 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:30:52,434 - prescription_analyzer - INFO - Processed prescription in 2278.35ms
+2025-04-18 13:32:43,799 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:32:43,805 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:32:43,848 - prescription_analyzer - INFO - Processed prescription in 2147.15ms
+2025-04-18 13:38:39,214 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:38:39,229 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:38:39,249 - prescription_analyzer - INFO - Processed prescription in 3793.43ms
+2025-04-18 13:39:19,789 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:39:19,789 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:39:19,836 - prescription_analyzer - INFO - Processed prescription in 2071.37ms
+2025-04-18 13:40:44,247 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 13:40:44,249 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 13:40:44,302 - prescription_analyzer - INFO - Processed prescription in 2567.35ms
+2025-04-18 15:25:34,237 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-18 15:25:34,237 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-18 15:25:44,961 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-18 15:25:45,908 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-18 15:25:45,908 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-18 15:25:49,104 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-18 16:15:37,385 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 16:15:37,403 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 16:15:37,532 - prescription_analyzer - INFO - Processed prescription in 4101.99ms
+2025-04-18 16:47:37,282 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-18 16:47:37,294 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-18 16:47:37,583 - prescription_analyzer - INFO - Processed prescription in 6496.18ms
+2025-04-19 01:36:32,636 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-19 01:36:32,636 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-19 01:36:41,361 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-19 01:36:42,920 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-19 01:36:42,920 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-19 01:36:47,740 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-19 01:40:32,239 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-19 01:40:32,239 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-19 01:40:36,703 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-19 01:40:37,974 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-19 01:40:37,974 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-19 01:40:42,600 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-19 01:42:10,309 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 01:42:10,320 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 01:42:10,563 - prescription_analyzer - INFO - Processed prescription in 3874.18ms
+2025-04-19 01:42:32,632 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 01:42:32,632 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 01:42:32,798 - prescription_analyzer - INFO - Processed prescription in 3469.87ms
+2025-04-19 01:43:03,145 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 01:43:03,145 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 01:43:03,214 - prescription_analyzer - INFO - Processed prescription in 5000.00ms
+2025-04-19 01:43:34,615 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 01:43:34,615 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 01:43:34,643 - prescription_analyzer - INFO - Processed prescription in 3665.00ms
+2025-04-19 01:43:36,614 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-19 01:43:36,614 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-19 01:43:40,963 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-19 01:43:50,457 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 01:43:50,464 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 01:43:50,519 - prescription_analyzer - INFO - Processed prescription in 2783.25ms
+2025-04-19 10:49:08,771 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-19 10:49:08,773 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-19 10:49:17,929 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-19 10:49:19,496 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-19 10:49:19,496 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-19 10:49:24,604 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-19 11:02:49,005 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 11:02:49,017 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 11:02:49,253 - prescription_analyzer - INFO - Processed prescription in 3951.46ms
+2025-04-19 11:12:50,157 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 11:12:50,158 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 11:12:50,305 - prescription_analyzer - INFO - Processed prescription in 3380.67ms
+2025-04-19 11:26:05,416 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 11:26:05,416 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 11:26:05,447 - prescription_analyzer - INFO - Processed prescription in 1857.48ms
+2025-04-19 13:17:04,751 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-19 13:17:04,765 - prescription_analyzer - INFO - Successfully corrected text with AI
+2025-04-19 13:17:04,981 - prescription_analyzer - INFO - Processed prescription in 3686.75ms
+2025-04-22 22:25:38,482 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-22 22:25:38,482 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-22 22:25:48,960 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
+2025-04-22 22:25:50,110 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-22 22:25:50,110 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-22 22:25:54,394 - prescription_analyzer - INFO - Successfully loaded enhanced SpaCy NLP model
